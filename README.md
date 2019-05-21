@@ -14,7 +14,7 @@
 
 
 
-#### [View Astra Rai's Portfolio here](https://www.astrarai.com/programming-portfolio)
+#### [View Astra Rai's Programming Portfolio](https://www.astrarai.com/programming-portfolio)
 
 
 
