@@ -15,7 +15,7 @@
 
 
 #### [View Astra Rai's Programming Portfolio](https://www.astrarai.com/programming-portfolio)
-#### [Astra's Article | JavaScript: Random Quote Generator](https://medium.com/@astrarai/javascript-random-generator-made-simple-fe15b3f61e79)
+#### [Astra's Article | JavaScript: Random Quote Generator Made Simple](https://medium.com/@astrarai/javascript-random-generator-made-simple-fe15b3f61e79)
 
 
 
